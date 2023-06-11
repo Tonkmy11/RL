@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4bcf574-75bd-4fb5-9a18-81ad7f274c63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/2_Q-learning-maze/maze_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/2_Q-learning-maze/maze_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze/maze_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze/maze_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze/run_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze/run_this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/4_Sarsa_lambda_maze/RL_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/4_Sarsa_lambda_maze/maze_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/4_Sarsa_lambda_maze/maze_env.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QbKlQn3SsKxSR1JIBw6AEzmHkz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "C:/pythonProject/DQN",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pythonProject\DQN" />
+      <recent name="C:\pythonProject\Double_DQN" />
+      <recent name="C:\pythonProject\Sarsa_maze" />
+      <recent name="C:\pythonProject\SARSA_Lambda" />
+      <recent name="C:\pythonProject\Reinforcement-learning-with-PyTorch\content\4_Sarsa_lambda_maze" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run_this" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze/run_this.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_this" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4bcf574-75bd-4fb5-9a18-81ad7f274c63" name="Changes" comment="" />
+      <created>1685616991847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685616991847</updated>
+      <workItem from="1685616993046" duration="30371000" />
+      <workItem from="1685863167866" duration="1148000" />
+      <workItem from="1685875822117" duration="8990000" />
+      <workItem from="1685946415901" duration="984000" />
+      <workItem from="1685949278614" duration="2432000" />
+      <workItem from="1685965073741" duration="20889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1686035075086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_pytorch" />
+    <SUITE FILE_PATH="coverage/pythonProject$sample.coverage" NAME="sample Coverage Results" MODIFIED="1686046526650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_pytorch" />
+    <SUITE FILE_PATH="coverage/pythonProject$RUN_this.coverage" NAME="RUN_this Coverage Results" MODIFIED="1685886287290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q-learning-maze" />
+    <SUITE FILE_PATH="coverage/pythonProject$maze_env.coverage" NAME="maze_env Coverage Results" MODIFIED="1685790827997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SARSA_Lambda" />
+    <SUITE FILE_PATH="coverage/pythonProject$121.coverage" NAME="121 Coverage Results" MODIFIED="1686046066456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_pytorch" />
+    <SUITE FILE_PATH="coverage/pythonProject$activative_func.coverage" NAME="activative_func Coverage Results" MODIFIED="1686047189838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_neural_net" />
+    <SUITE FILE_PATH="coverage/pythonProject$run_this.coverage" NAME="run_this Coverage Results" MODIFIED="1685965093744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/3_Sarsa_maze" />
+    <SUITE FILE_PATH="coverage/pythonProject$RL_brain.coverage" NAME="RL_brain Coverage Results" MODIFIED="1686047169187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DQN" />
+    <SUITE FILE_PATH="coverage/pythonProject$regression.coverage" NAME="regression Coverage Results" MODIFIED="1686049616175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_neural_net" />
+    <SUITE FILE_PATH="coverage/pythonProject$run_Pendulum.coverage" NAME="run_Pendulum Coverage Results" MODIFIED="1685876172196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reinforcement-learning-with-PyTorch/content/5.1_double_DQN" />
+    <SUITE FILE_PATH="coverage/pythonProject$classification.coverage" NAME="classification Coverage Results" MODIFIED="1686052677967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_neural_net" />
+  </component>
+</project>
